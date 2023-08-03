@@ -1,1 +1,1 @@
-script dealing with symbolic links
+changing ownership from one user to another
