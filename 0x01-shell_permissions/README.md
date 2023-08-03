@@ -1,1 +1,1 @@
-changing ownership
+script dealing with symbolic links
