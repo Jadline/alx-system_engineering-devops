@@ -1,1 +1,1 @@
-adding permission to subdirectories
+making directories and changing their mode
