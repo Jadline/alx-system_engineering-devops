@@ -1,1 +1,1 @@
-script to add all permissions to otherss
+adding permissions to a file
