@@ -1,1 +1,1 @@
-making directories and changing their mode
+changing group permissions
