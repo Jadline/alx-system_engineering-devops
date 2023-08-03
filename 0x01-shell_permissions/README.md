@@ -1,1 +1,1 @@
-referencing a directory
+adding permission to subdirectories
