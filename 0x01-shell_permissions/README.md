@@ -1,1 +1,1 @@
-making the hello file executable
+giving execution and read permissions
