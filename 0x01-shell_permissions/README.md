@@ -1,1 +1,1 @@
-adding execution commands to user,group and others
+script to add all permissions to otherss
