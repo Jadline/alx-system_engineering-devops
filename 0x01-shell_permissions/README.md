@@ -1,1 +1,1 @@
-adding permissions to a file
+referencing a directory
