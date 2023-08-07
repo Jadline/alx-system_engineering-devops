@@ -1,1 +1,1 @@
-reversing inputs
+cutting and sorting
