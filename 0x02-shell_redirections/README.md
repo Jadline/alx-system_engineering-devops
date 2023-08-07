@@ -1,1 +1,1 @@
-displaying lines in a file,i hate bins alot
+we are printing alphabets only
