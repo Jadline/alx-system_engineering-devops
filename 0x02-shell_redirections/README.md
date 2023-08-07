@@ -1,1 +1,1 @@
-we are saving the current state of the directory
+duplicating last lines
