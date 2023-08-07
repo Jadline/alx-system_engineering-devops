@@ -1,1 +1,1 @@
-printing the what's next
+displaying lines in a file,i hate bins alot
