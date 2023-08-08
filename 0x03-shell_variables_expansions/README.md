@@ -1,1 +1,1 @@
-just encrypting and decrypting
+using the paste and cut commands
