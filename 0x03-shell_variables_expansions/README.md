@@ -1,1 +1,1 @@
-my second readme
+displaying lines in the path
