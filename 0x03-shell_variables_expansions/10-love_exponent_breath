@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(expr $BREATH**$LOVE)| tr ':' '\n'
+echo $(($BREATH**LOVE))
