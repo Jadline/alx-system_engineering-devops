@@ -1,1 +1,1 @@
-every addition to true knowledge is a great benefit
+dividing and ensuring i rule
