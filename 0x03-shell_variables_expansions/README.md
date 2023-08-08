@@ -1,1 +1,1 @@
-converting binary to decimal
+the combinations tasks
