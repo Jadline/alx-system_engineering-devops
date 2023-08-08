@@ -1,1 +1,1 @@
-displaying lines in the path
+displaying the environment variables
