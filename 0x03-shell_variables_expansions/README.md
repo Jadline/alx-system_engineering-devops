@@ -1,1 +1,1 @@
-powering the environment variables
+converting binary to decimal
